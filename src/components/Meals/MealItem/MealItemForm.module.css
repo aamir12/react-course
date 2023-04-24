@@ -18,3 +18,8 @@
   background-color: #641e03;
   border-color: #641e03;
 }
+
+.inputError{
+  font-size: 12px;
+  color:#ff0000;
+}
